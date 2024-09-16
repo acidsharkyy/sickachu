@@ -3,7 +3,7 @@ import java.io.*;
 public class HelloWorld {
 
     static int add(int a, int b){
-        return a+b;
+        return a+b+250;
     }
 
     public static void main(String args[]) throws IOException{
