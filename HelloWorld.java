@@ -6,6 +6,10 @@ public class HelloWorld {
         return a+b+250;
     }
 
+    int subtract(int a, int b){
+        return a-b;
+    }
+
     public static void main(String args[]) throws IOException{
         System.out.println(add(3,5));
     }
