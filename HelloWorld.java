@@ -3,7 +3,7 @@ import java.io.*;
 public class HelloWorld {
 
     static int add(int a, int b) {
-        return a+b+99;
+        return a+b+2;
     }
 
     int subtract(int a, int b){
